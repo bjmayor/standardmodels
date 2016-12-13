@@ -1,0 +1,53 @@
+Received: from maynarddemacbook-pro.local (unknown [175.13.99.51])
+	by smtp3 (Coremail) with SMTP id DdGowAB3uagXwjdYPk_PHA--.33581S3;
+	Fri, 25 Nov 2016 12:46:16 +0800 (CST)
+Content-Type: multipart/mixed; boundary="===============5050654070656393291=="
+MIME-Version: 1.0
+Subject: [Flasky] Confirm Your Account
+From: =?utf-8?q?tvkl?= <tvkl@163.com>
+To: 415074476@qq.com
+Date: Fri, 25 Nov 2016 12:46:17 +0800
+Message-ID: <148004917684.77521.4022276447244199633@maynarddemacbook-pro.local>
+X-CM-TRANSID:DdGowAB3uagXwjdYPk_PHA--.33581S3
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxU-LZ2UUUUU
+X-Originating-IP: [175.13.99.51]
+
+--===============5050654070656393291==
+Content-Type: multipart/alternative; boundary="===============8607831484173793459=="
+MIME-Version: 1.0
+
+--===============8607831484173793459==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear test,
+
+Welcome to Flasky!
+
+To confirm your account please click on the following link:
+
+http://127.0.0.1:5000/auth/confirm/eyJpYXQiOjE0ODAwNDkxNzYsImV4cCI6MTQ4MDA1Mjc3NiwiYWxnIjoiSFMyNTYifQ.eyJjb25maXJtIjoyfQ.xiyx2nldxmiGlXeF87stYss-ALVWoByDrIzjRUvrTgs
+
+Sincerely,
+
+The Flasky Team
+
+Note: replies to this email address are not monitored.
+--===============8607831484173793459==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<p>Dear test,</p>
+<p>Welcome to <b>Flasky</b>!</p>
+<p>To confirm your account please <a href="http://127.0.0.1:5000/auth/confirm/eyJpYXQiOjE0ODAwNDkxNzYsImV4cCI6MTQ4MDA1Mjc3NiwiYWxnIjoiSFMyNTYifQ.eyJjb25maXJtIjoyfQ.xiyx2nldxmiGlXeF87stYss-ALVWoByDrIzjRUvrTgs">click here</a>.</p>
+<p>Alternatively, you can paste the following link in your browser's address bar:</p>
+<p>http://127.0.0.1:5000/auth/confirm/eyJpYXQiOjE0ODAwNDkxNzYsImV4cCI6MTQ4MDA1Mjc3NiwiYWxnIjoiSFMyNTYifQ.eyJjb25maXJtIjoyfQ.xiyx2nldxmiGlXeF87stYss-ALVWoByDrIzjRUvrTgs</p>
+<p>Sincerely,</p>
+<p>The Flasky Team</p>
+<p><small>Note: replies to this email address are not monitored.</small></p>
+--===============8607831484173793459==--
+
+--===============5050654070656393291==--
